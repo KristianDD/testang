@@ -1,0 +1,28 @@
+{
+  "ProjectName": "TestAngular2",
+  "ProjectGuid": "3179c733-7087-45d3-86c0-8bd78a2157ca",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.TestAngular2",
+  "DisplayName": "TestAngular2",
+  "Author": "",
+  "Description": "TestAngular2",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "2.2.0",
+  "Framework": "NativeScript"
+}

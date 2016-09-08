@@ -1,0 +1,7 @@
+<ActionBar [title]="pageTitle">
+  <!-- actionbar items  -->
+</ActionBar>
+
+<GridLayout>
+  <!-- page content -->
+</GridLayout>
